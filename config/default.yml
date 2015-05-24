@@ -7,7 +7,7 @@ recipes:                                       # Configs are parsed and every li
 attributes:
     homebrewalt:
         apps:
-            - git
+#            - git
         cask_apps:
             - google-chrome
         cask_fonts:

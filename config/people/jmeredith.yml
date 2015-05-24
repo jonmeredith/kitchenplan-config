@@ -10,4 +10,7 @@ attributes:
         apps:
 #           - git-extras
         cask_apps:
+            - vmware-fusion
+            - evernote
+            - mactex
 #           - sourcetree
