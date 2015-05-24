@@ -1,13 +1,13 @@
 groups:
-    - groupa
+#    - groupa
 recipes:
     mac_os_x:
-        - osxdefaults::set_computer_name
+#        - osxdefaults::set_computer_name
 attributes:
     osxdefaults:
-        computername: MyComputerName
+#        computername: jons-mbp13
     homebrewalt:
         apps:
-            - git-extras
+#           - git-extras
         cask_apps:
-            - sourcetree
+#           - sourcetree
